@@ -1,6 +1,8 @@
 {
     "name": "h1code/validacaocadastral.packagist.org",
     "description": "Automacao de validacao cadastral com dados validos via API",
+    "minimum-stability": "stable",
+    "license": "proprietary",
     "authors": [
         {
             "name": "H1code",
