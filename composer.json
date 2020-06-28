@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "H1code\\": "src/"
         }
     },
     "require-dev": {

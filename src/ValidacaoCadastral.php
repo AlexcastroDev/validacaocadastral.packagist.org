@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace H1code;
 
 Class ValidacaoCadastral {
     const BASE_URL = 'https://api.validacaocadastral.com.br/consulta/';
